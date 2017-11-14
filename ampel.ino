@@ -1,5 +1,5 @@
 /*
- * AmpelAmpel
+ * ampel-ino
  * 
  * für Vincent :-*
 */
